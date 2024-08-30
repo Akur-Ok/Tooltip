@@ -11,7 +11,7 @@ class TooltipPlugin {
             border-radius: 5px;
             z-index: 9;
             font-size: var(--font-size-small);
-            background-color: #c9c9c9;
+            background-color: white;
         }
 
         .tooltip::after {
